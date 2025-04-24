@@ -1,5 +1,6 @@
 import ballerina/io;
 import ballerina/time;
+
 type Student record {|
    readonly int id;
    string? fname;

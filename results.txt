@@ -1,0 +1,13 @@
+Running tests...
+Running with CUSTOM BAL on simple.bal 
+ 
+Running with DEFAULT BAL on simple.bal 
+ 
+Running with CUSTOM BAL on complex.bal 
+ 
+Running with DEFAULT BAL on complex.bal 
+ 
+Running with CUSTOM BAL on nested.bal 
+ 
+Running with DEFAULT BAL on nested.bal 
+ 
